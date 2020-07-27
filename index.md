@@ -13,10 +13,10 @@ humandate: "Every Friday from August 14 - September 4"    # human-readable dates
 humantime: "August 14, 12-2pm | August 21, 12-3pm | August 28, 12-3pm | September 4, 12-3pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2020-08-14      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2020-09-04        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor team: ["Rachel Wang", "Abigail Sparling", "Lise Doucette", "Nilani Ganeshwaran", "Reid Otsuji", "Stephanie Labou", "Cody Hennesy", "Elaine Wong", "Julien Tremblay McLellan", "Tuck-Voon How"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+instructor: ["Rachel Wang", "Abigail Sparling", "Lise Doucette", "Nilani Ganeshwaran", "Reid Otsuji", "Stephanie Labou", "Cody Hennesy", "Elaine Wong", "Julien Tremblay McLellan", "Tuck-Voon How"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 email: ["jordan.pedersen@utoronto.ca"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2020-08-14-international # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
-eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: https://www.eventbrite.ca/e/international-library-carpentries-tickets-114608862192          # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
 {% comment %} See instructions in the comments below for how to edit specific sections of this workshop template. {% endcomment %}
